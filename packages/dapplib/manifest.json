@@ -1,0 +1,16 @@
+{
+    "name": "St Zo Souper",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Potato ",
+        "/category/asset_value_tracking/token/symbol": "Pot",
+        "/category/asset_value_tracking/token/decimals": "4",
+        "/category/asset_value_tracking/token/supply": "10000"
+    }
+}
